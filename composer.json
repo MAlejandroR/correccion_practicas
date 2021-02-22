@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Utilidades\\": "Clases/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5",
+    "phpoffice/phpword": "0.17.0"
+  }
+}
